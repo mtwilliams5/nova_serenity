@@ -1,0 +1,14 @@
+/*
+|---------------------------------------------------------------
+| STYLESHEET - GLOBAL
+|---------------------------------------------------------------
+|
+| File: serenity/_global/css/main.css
+| Author: Matthew Williams [williams@pegasusfleet.net]
+| Version: 1.0
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic');
+@import url('structure.css');
+@import url('skin.css');
+@import url('jquery.ui.tabs.css');

@@ -1,0 +1,14 @@
+/*
+|---------------------------------------------------------------
+| STYLESHEET - MAIN
+|---------------------------------------------------------------
+|
+| File: serenity/main/css/main.css
+| Author: Matthew Williams [williams@pegasusfleet.net]
+| Version: 1.0
+*/
+
+/* First import the global skin files */
+@import url('../../_global/css/main.css');
+/* Now import the overrides file */
+@import url('overrides.css');

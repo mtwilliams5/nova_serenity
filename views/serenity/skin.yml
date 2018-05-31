@@ -1,0 +1,17 @@
+skin: Serenity
+location: serenity
+credits: The Serenity skin was created by Matthew Williams, and is loosely based on the Pulsar skin by Anodyne Productions. Edits are permissible provided the original credits remain intact. The Serenity skin includes the jQuery BlockUI plugin by Malsup. More information can be found at <a href="http://malsup.com/jquery/block/">http://malsup.com/jquery/block/</a>. The Serenity skin uses icons from the <a href="https://gumroad.com/l/LaVL" target="_blank">Simplicity Vector Icon Set by Web Icon Set</a>.
+version: 1.0
+sections:
+  -
+    type: main
+    preview: preview-main.jpg
+  -
+    type: login
+    preview: preview-login.jpg
+  -
+    type: wiki
+    preview: preview-wiki.jpg
+  -
+    type: admin
+    preview: preview-admin.jpg
