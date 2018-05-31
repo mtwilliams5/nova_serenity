@@ -399,7 +399,6 @@ img { border: none; }
 | DASHBOARD
 |---------------------------------------------------------------
 */
-#panel {}
 .panel-handle a, .panel-handle a:hover {
 	outline: 0;
 	margin: 0;
