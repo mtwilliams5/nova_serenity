@@ -10,3 +10,9 @@ The skin also reduces duplication. If you want to change the styles of a skin, y
 Note: for both the infobox and manifest image mods, it works best for images that are either square or tall. Wide images tend to leave blank space at the bottom of the display.
 
 Originally created and uploaded to Anodyne Xtras January 2016
+
+## Installation
+1. Download the zip file and extract it to your computer.
+1. Back up your existing site files (especially if you already have mods installed that may conflict with the file changes this mod makes)
+1. Upload the files and folders to your `/application/` directory. The structure to place each file in the correct place is already present.
+1. Log in to your site and go to Skin catalogue. Click 'Install' next to the notice that the Serenity skin is ready to install.
